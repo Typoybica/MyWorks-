@@ -1,0 +1,34 @@
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\BOT John.exe
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\BOT John.deps.json
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\BOT John.runtimeconfig.json
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\BOT John.runtimeconfig.dev.json
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\BOT John.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\BOT John.pdb
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.csprojAssemblyReference.cache
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.AssemblyInfoInputs.cache
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.AssemblyInfo.cs
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.pdb
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.genruntimeconfig.cache
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.csproj.CopyComplete
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\obj\Debug\netcoreapp3.1\BOT John.csproj.CoreCompileInputs.cache
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\ПОИТ\4 семестр\Курсач\Discord BOT\BOT John\bin\Debug\netcoreapp3.1\_config.yml
