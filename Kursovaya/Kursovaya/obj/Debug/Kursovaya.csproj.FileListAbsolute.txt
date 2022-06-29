@@ -1,0 +1,62 @@
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddDiskForm.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.MainMenu.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddSongForm.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.DiskViewForm.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditDiskForm.resources
+C:\Users\Леша\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditSongForm.resources
+E:\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+E:\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+E:\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddDiskForm.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddSongForm.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.DiskViewForm.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditDiskForm.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditSongForm.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.MainMenu.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+E:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddDiskForm.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddSongForm.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.DiskViewForm.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditDiskForm.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditSongForm.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.MainMenu.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.Cache
+F:\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+F:\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+F:\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddDiskForm.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.AddSongForm.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.DiskViewForm.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditDiskForm.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.EditSongForm.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.MainMenu.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\shake\OneDrive\Рабочий стол\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
